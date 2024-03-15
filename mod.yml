@@ -1,6 +1,6 @@
 title: Archipelago Companion - QoL (Final Data Xemnas Retry)
 originalAuthor: JungleChief
-description: Necessary files for the KH2 Archipelago. Thanks to num for assistance with GoA edits. Thanks to the KH2 Rando Devs for the Quality of life features.
+description: A really simple QoL mod for the Archipelago Randomizer that is a port of the setting from the base randomizer to put a checkpoint between Data Xemnas and Data Final Xemnas.
 assets:
 - method: copy
   multi:
