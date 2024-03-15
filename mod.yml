@@ -1,0 +1,15 @@
+title: Archipelago Companion - QoL (Final Data Xemnas Retry)
+originalAuthor: JungleChief
+description: Necessary files for the KH2 Archipelago. Thanks to num for assistance with GoA edits. Thanks to the KH2 Rando Devs for the Quality of life features.
+assets:
+- method: copy
+  multi:
+  - name: msn/us/EH20_MS113_RE.bar
+  - name: msn/fr/EH20_MS113_RE.bar
+  - name: msn/gr/EH20_MS113_RE.bar
+  - name: msn/it/EH20_MS113_RE.bar
+  - name: msn/sp/EH20_MS113_RE.bar
+  - name: msn/uk/EH20_MS113_RE.bar
+  name: msn/jp/EH20_MS113_RE.bar
+  source:
+  - name: files\msns\EH20_MS113_RE.bar
